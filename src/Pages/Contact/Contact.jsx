@@ -6,8 +6,8 @@ import { TfiEmail } from "react-icons/tfi";
 
 const Contact = () => {
     return (
-        <div className=" bg-black h-[800px]">
-            <h2 className="text-5xl font-semibold text-white pt-5 pb-3 text-center">Let’s work together! </h2>
+        <div className=" bg-black h-[900px]">
+            <h2 className="text-5xl font-semibold text-white pt-28 pb-3 text-center">Let’s work together! </h2>
             <h4 className="text-3xl font-medium text-white mb-10 text-center">Contact Me</h4>
             <div className="flex">
                 <div className="bg-gradient-to-r from-purple-600 ml-[250px]   rounded-xl   to-white w-[600px] h-[600px]">

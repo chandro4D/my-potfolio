@@ -14,21 +14,26 @@ const Home = () => {
             <div className=" bg-gradient-to-r from-indigo-500  to-pink-500 h-[500px]">
 
                 <div className="flex  ml-[170px]">
-                    <div className="mr-[200px] mt-[150px]">
+                    <div className=" mt-[150px]">
                         <h1 className="mb-1 text-3xl text-white font-semibold"> I am Chandra Shekhor</h1>
-                        <h1 className="mb-1 text-pink-300  text-5xl font-black">Web Developer</h1>
-                        <p className="text-xl text-white">I break down complex user experinece <br /> problems  to  create integritiy focussed <br /> solutions  that  connect  billions of people</p>
-                        <div className="flex mt-10">
+                        <h1 className="mb-3 text-pink-300  text-4xl font-black">Web Developer</h1>
+                        <p className="text-xl text-white">
+                        Hi, I am Chandra Shekhor Mondal, a passionate and dedicated  web developer <br /> 
+                         specializing in React, JavaScript, and MongoDB.  With  a knack for creating  dynamic,<br /> 
+                          responsive, and user-friendly  web applications. My expertise spans front-end and  back-end 
+                           development, allowing me to build seamless and efficient web experiences.
+                        </p>
+                        <div className="flex mt-5">
                             <div>
                                 <button className="btn btn-outline text-white text-xl rounded-3xl mr-3">Download CV <FiDownload /></button>
                             </div>
-                            <div className=" text-indigo-700 mr-2">
+                            <div className=" text-black mr-2">
                                  <a href="https://github.com/chandro4D"><FaGithub className="w-[50px] h-[50px]" /></a>
                             </div>
-                            <div className="mr-2 text-indigo-700 ">
+                            <div className="mr-2 text-blue-600 ">
                                 <a href="https://www.facebook.com/chandro.shakhor.1"><ImFacebook2 className="w-[50px] h-[50px] rounded-full" /></a>
                             </div>
-                            <div className=" text-indigo-700">
+                            <div className=" text-violet-950">
                                 <a href="https://www.linkedin.com/in/chandra-shekhor-mondal"><ImLinkedin className="w-[50px] rounded-full h-[50px]" /></a>
                             </div>
                            
