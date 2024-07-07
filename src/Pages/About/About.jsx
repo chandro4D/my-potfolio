@@ -15,7 +15,7 @@ const About = () => {
                 </p>
                 <h1 className="text-5xl text-purple-600 font-bold mt-5">My Expert Areas </h1>
                 <p className="text-gray-500 text-xl mt-3">``Express yourself freely and creatively, using customizable templates or crafting your own designs <br /> from scratch, with access to a vast and immersive library.`` </p>
-                <div className="flex ml-[250px] mt-10 ">
+                <div className="flex lg:ml-[250px] sm:[ml-100px] mt-10 ">
                     <div>
                         <img className="w-[100px] h-[100px] mr-3 " src="https://i.ibb.co/GHDn9wY/HTML.png" alt="" />
                     </div>

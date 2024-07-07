@@ -15,9 +15,9 @@ const Home = () => {
 
                 <div className="flex  ml-[170px]">
                     <div className=" mt-[150px]">
-                        <h1 className="mb-1 text-3xl text-white font-semibold"> I am Chandra Shekhor</h1>
-                        <h1 className="mb-3 text-pink-300  text-4xl font-black">Web Developer</h1>
-                        <p className="text-xl text-white">
+                        <h1 className="mb-1 lg:text-3xl sm:text-2xl text-white font-semibold"> I am Chandra Shekhor</h1>
+                        <h1 className="mb-3 text-pink-300  lg:text-4xl sm:text-3xl font-black">Web Developer</h1>
+                        <p className="lg:text-xl sm:text-base text-white">
                         Hi, I am Chandra Shekhor Mondal, a passionate and dedicated  web developer <br /> 
                          specializing in React, JavaScript, and MongoDB.  With  a knack for creating  dynamic,<br /> 
                           responsive, and user-friendly  web applications. My expertise spans front-end and  back-end 
@@ -41,7 +41,7 @@ const Home = () => {
                         </div>
                     </div>
                     <div >
-                        <img className="rounded-full h-[500px] w-[700px] mt-[1px] " src="https://i.ibb.co/MfS5rxY/1720062798988-removebg-preview.png" alt="" />
+                        <img className="rounded-full lg:h-[500px] lg:w-[700px] sm:h-[300px] sm:w-[500px] mt-[1px] " src="https://i.ibb.co/MfS5rxY/1720062798988-removebg-preview.png" alt="" />
                     </div>
                 </div>
             </div>

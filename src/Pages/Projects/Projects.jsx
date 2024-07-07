@@ -2,14 +2,14 @@
 
 const Projects = () => {
     return (
-        <div className="bg-gradient-to-r from-indigo-500  to-pink-500 h-[600px]">
+        <div className="bg-gradient-to-r from-indigo-500  to-pink-500 lg:h-[600px]">
             <div >
                 <h1 className="pt-20 text-white text-5xl font-bold text-center">My Latest Projects</h1>
             </div>
 
-            <div className="flex mt-10 ml-[150px]">
+            <div className="lg:flex mt-10 lg:ml-[150px]">
 
-                <div className="card bg-gradient-to-r from-purple-400  text-violet-700 w-96 shadow-2xl mr-5">
+                <div className="card bg-gradient-to-r from-purple-400   text-violet-700 w-96 shadow-2xl mr-5">
                     <div className="card-body">
                         <h2 className="card-title">HealthHeaven</h2>
                         <p className="text-white">It is a medicine selling website .`Health Heaven`

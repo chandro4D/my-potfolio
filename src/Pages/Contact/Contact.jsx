@@ -10,7 +10,7 @@ const Contact = () => {
             <h2 className="text-5xl font-semibold text-white pt-28 pb-3 text-center">Let’s work together! </h2>
             <h4 className="text-3xl font-medium text-white mb-10 text-center">Contact Me</h4>
             <div className="flex">
-                <div className="bg-gradient-to-r from-purple-600 ml-[250px]   rounded-xl   to-white w-[600px] h-[600px]">
+                <div className="bg-gradient-to-r from-purple-600 lg:ml-[250px]   rounded-xl   to-white w-[600px] h-[600px]">
                     <div className="flex ml-20 pt-20">
                         <div className="">
                             <div className="mr-4 mb-5">
