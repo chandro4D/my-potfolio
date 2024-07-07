@@ -57,7 +57,7 @@ const About = () => {
                 <div className="card-body text-xl text-white">
                     <h2 className="card-title text-blue-700">2023-Present</h2>
                     <h2>Bachelor of Science in Computer Science and Engineering</h2>
-                    <h3 className="">Northern University of Business and Technology</h3>
+                    <h3 className="">Northern University of Business and Technology,Khulna</h3>
 
                 </div>
             </div>
