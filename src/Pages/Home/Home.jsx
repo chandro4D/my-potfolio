@@ -25,7 +25,7 @@ const Home = () => {
                         </p>
                         <div className="flex mt-5">
                             <div>
-                                <button className="btn btn-outline text-white text-xl rounded-3xl mr-3">Download CV <FiDownload /></button>
+                                <a href="https://onedrive.live.com/?cid=194E03A48AC6FEC5&id=194E03A48AC6FEC5%21s03af1241aeef4c329e0b7575aac63730&parId=root&o=OneUp"><button className="btn btn-outline text-white text-xl rounded-3xl mr-3">Download CV <FiDownload /></button></a>
                             </div>
                             <div className=" text-black mr-2">
                                  <a href="https://github.com/chandro4D"><FaGithub className="w-[50px] h-[50px]" /></a>
