@@ -18,17 +18,22 @@ const Home = () => {
                         <h1 className="mb-1 lg:text-3xl sm:text-2xl text-white font-semibold"> I am Chandra Shekhor</h1>
                         <h1 className="mb-3 text-pink-300  lg:text-4xl sm:text-3xl font-black">Web Developer</h1>
                         <p className="lg:text-xl sm:text-base text-white">
-                        Hi, I am Chandra Shekhor Mondal, a passionate and dedicated  web developer <br /> 
-                         specializing in React, JavaScript, and MongoDB.  With  a knack for creating  dynamic,<br /> 
-                          responsive, and user-friendly  web applications. My expertise spans front-end and  back-end 
-                           development, allowing me to build seamless and efficient web experiences.
+                            Hi, I am Chandra Shekhor Mondal, a passionate and dedicated  web developer <br />
+                            specializing in React, JavaScript, and MongoDB.  With  a knack for creating  dynamic,<br />
+                            responsive, and user-friendly  web applications. My expertise spans front-end and  back-end
+                            development, allowing me to build seamless and efficient web experiences.
                         </p>
                         <div className="flex mt-5">
                             <div>
-                                <a href="https://onedrive.live.com/?cid=194E03A48AC6FEC5&id=194E03A48AC6FEC5%21s03af1241aeef4c329e0b7575aac63730&parId=root&o=OneUp"><button className="btn btn-outline text-white text-xl rounded-3xl mr-3">Download CV <FiDownload /></button></a>
+                                <a href="https://drive.google.com/uc?export=download&id=1q48cJ_nCwcsn36vsUn2Tkjs1fIxI8BgG" download>
+                                    <button className="btn btn-outline text-white text-xl rounded-3xl mr-3">
+                                        Download CV <FiDownload />
+                                    </button>
+                                </a>
+
                             </div>
                             <div className=" text-black mr-2">
-                                 <a href="https://github.com/chandro4D"><FaGithub className="w-[50px] h-[50px]" /></a>
+                                <a href="https://github.com/chandro4D"><FaGithub className="w-[50px] h-[50px]" /></a>
                             </div>
                             <div className="mr-2 text-blue-600 ">
                                 <a href="https://www.facebook.com/chandro.shakhor.1"><ImFacebook2 className="w-[50px] h-[50px] rounded-full" /></a>
@@ -36,8 +41,8 @@ const Home = () => {
                             <div className=" text-violet-950">
                                 <a href="https://www.linkedin.com/in/chandra-shekhor-mondal"><ImLinkedin className="w-[50px] rounded-full h-[50px]" /></a>
                             </div>
-                           
-                            
+
+
                         </div>
                     </div>
                     <div >
